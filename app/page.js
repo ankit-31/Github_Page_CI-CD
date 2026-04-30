@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const categories = [
   {
-    name: "Smartphones",
+    name: "Mobile",
     image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80"
   },
   {
